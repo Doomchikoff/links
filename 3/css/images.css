@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(0, 255, 106);
+    background-image: url(https://i.gifer.com/1V7a.gif);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-attachment: fixed;
+}
+p{
+    font-size: 0.8in;
+    color: rgb(251, 255, 0);
+    background-image: url(https://t3.ftcdn.net/jpg/00/65/40/88/360_F_65408831_eFa8Py46HSYKvOspGBnJimUBMKxGhkPB.jpg);
+    background-size: cover;
+}
+div {
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+}
+#d1{
+    background-image: url(https://cdn-icons-png.flaticon.com/512/11835/11835476.png), url(https://bogatyr.club/uploads/posts/2023-03/thumbs/1679020892_bogatyr-club-p-fon-s-podsvetkoi-foni-vkontakte-4.jpg);
+    width: 600px;
+    border: ridge 20px red;
+}
+#d2{
+    background-image: linear-gradient(rgba(255,255,0,0.5), rgba(0,0,255,0.5)), url(https://flag.ua/home/catalog_products/item_68/image/15.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 340px;
+    border: solid 30px;
+    border-image: linear-gradient(yellow, blue) 30;
+}
+#img1{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+#img2{
+    width: 50%;
+    border-radius: 50%;
+    box-shadow: 10px -10px 50px rgb(17, 0, 255), 10px 10px 50px rgb(251, 255, 0);
+}
+#img3{
+    width: 50%;
+    border-radius: 50%;
+    box-shadow: 10px -10px 50px rgb(17, 0, 255), 10px 10px 50px rgb(251, 255, 0);
+}
+#d3{
+    background-image: url(https://klev.club/uploads/posts/2023-10/thumbs/1698656336_klev-club-p-kartinki-chelovek-klipart-9.png), url(https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    /* width: 600px; */
+    border: ridge 15px rgb(37, 7, 204);
+}
